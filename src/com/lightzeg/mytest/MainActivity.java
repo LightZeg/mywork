@@ -3,6 +3,9 @@ package com.lightzeg.mytest;
 import android.app.Activity;
 import android.os.Bundle;
 
+/**
+ * this my test of git
+ */
 public class MainActivity extends Activity {
     /**
      * Called when the activity is first created.
